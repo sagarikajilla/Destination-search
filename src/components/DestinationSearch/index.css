@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg {
+  height: 100vh;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  font-size: 40px;
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.li-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.search-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 10px;
+  border-width: 0px;
+  align-items: center;
+}
+.search-img {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}

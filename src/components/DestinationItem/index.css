@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-card {
+  list-style-type: none;
+  cursor: pointer;
+}
+.img {
+  border-radius: 8px;
+  height: 280px;
+  width: 320px;
+}
+.desc {
+  font-size: 20px;
+  color: #252627;
+  font-family: 'Open Sans';
+}
